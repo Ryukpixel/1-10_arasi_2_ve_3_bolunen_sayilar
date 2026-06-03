@@ -1,0 +1,1 @@
+# 1-10_arasi_2_ve_3_bolunen_sayilar
